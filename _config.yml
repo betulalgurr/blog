@@ -1,10 +1,7 @@
 # This file contains configuration flags to customize your site
 
-# Name of your site (displayed in the header)
-name: Betul Algur
-
-# Short bio or description (displayed in the header)
-description: Magento Developer at Aize Software
+name: My Magento Developer Journey
+description: Junior Magento Developer Working on the RMA Module
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/79757816?v=4
@@ -39,7 +36,6 @@ url: http://notes.aizetech.nl/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
 
 # !! You don't need to change any of the configuration flags below !!
 
